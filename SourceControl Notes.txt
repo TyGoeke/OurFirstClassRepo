@@ -1,0 +1,33 @@
+Source Control:
+*former project history
+*works well with many people
+*no hardware tossing (USB drives and all such)
+
+types:
+*Mercriul
+*SVN
+*GIT
+
+GIT type Source Control (Bitbucket is a GIT type Source Control)
+
+Repository -> entire project and online storage
+
+getting access to repository -> Push and Pull
+
+	Push: Putting something on repository 	
+		
+		Must commit before sending: flag saying you want to push it at some point
+	
+	Pull: Getting something from repository
+
+location when coming from server:
+*repository : server / cloud
+*pull : computer (local repository)
+*branch : copy of local rpository on computor
+
+location when sending to server:
+*branch : copy of local repository on computor
+*merge : take from branch and put it on local repository
+*commit : confirming you want to send it at some point
+*push : send it to repository
+*repository : server/cloud
